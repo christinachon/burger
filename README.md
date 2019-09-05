@@ -1,4 +1,4 @@
-# :hamburger: Nom Nom Burger!
+# Nom Nom Burger!
 
 
 ### About
